@@ -1,0 +1,25 @@
+import 'package:flutter/material.dart';
+
+const Color appThemecolor = Color(0xFF286BFF);
+const Color whitecolor = Colors.white;
+const Color normalblack = Color(0xFF000000);
+const Color descriptionclr = Color(0xFF5B5B5B);
+const Color skipbgcolor = Color(0xFFE9F0FF);
+const Color textfeildborder = Color(0xFFCCCCCC);
+const Color hintcolor = Color(0xFF3A3A3A);
+const Color detailscardclr = Color(0xFFF6F6F6);
+const Color sucesfultext = Color(0xFF5B5B5B);
+const Color unslectedclr = Color(0xFF9B9B9B);
+const Color lookingtext = Color(0xFF636363);
+const Color completeprofile = Color(0xFFFF7528);
+const Color daysagocolor = Color(0xFF434343);
+const Color starcolor = Color(0xFFFFA34E);
+const Color collegeappbar = Color(0xFF1D1D6D);
+const Color categorybgclr = Color(0xFFEAEAEA);
+const Color detailscolor = Color(0xFF445479);
+const Color responsetextclr = Color(0xFF586688);
+const Color dividerlinecolor = Color(0xFFC4C4C4);
+const Color mathscolor = Color(0xFF525252);
+const Color edufulltime = Color(0xFF535353);
+const Color blueBlur = Color(0xFF89AEFF);
+const Color green = Color(0xFF37BB02);
